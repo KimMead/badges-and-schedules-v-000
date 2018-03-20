@@ -19,6 +19,6 @@ def assign_rooms(array)
 end
 
 def printer(array)
-  puts arr
-  puts arr2
+  arr
+  arr2
 end
