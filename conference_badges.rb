@@ -20,4 +20,4 @@ end
 
 def printer
   batch_badge_creator
-end 
+end
