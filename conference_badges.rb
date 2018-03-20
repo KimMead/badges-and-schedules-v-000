@@ -4,5 +4,5 @@ end
 
 def batch_badge_creater(attendees)
   badge_messages_array = []
-  attendees.each array << message 
-end 
+  attendees.each array << message
+end
